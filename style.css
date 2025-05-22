@@ -1,7 +1,27 @@
 body {
+    background-color: black;
+}
+
+hr {
+    background-color: rgb(50, 0, 0);
+    color: rgb(50, 0, 0);
+    border-color: rgb(50, 0, 0);
+}
+
+.header {
+    align-items: center;
+    text-align: center;
+    color: lime;
     padding-left: 10%;
     padding-right: 10%;
-    color: white;
-    background-color: black;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.story {
     text-align: left;
+    color: red;
+
+    padding-left: 16%;
+    padding-right: 16%;
 }
